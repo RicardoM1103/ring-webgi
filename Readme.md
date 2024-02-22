@@ -4,7 +4,7 @@
 
 This is a template used in my fast course "building scrollable pages with ScrollTrigger and Threejs" for a vanilla (no ui-framework) project with webgi engine in typescript using parcel bundler.
 
-## Course content
+## Page content
 
 On my YouTube channel, you can find a **step by step** video on how to use this source code to build your own pages.
 
